@@ -5,6 +5,10 @@
 
 <div align="center">
 
+<a href="https://leianet.ar"><img src="./assets/leianet/wordmark.png" alt="LEIANETWORK" width="340"></a>
+
+<br><br>
+
 <a href="https://github.com/Bruno7A0">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3B4F&center=true&vCenter=true&width=640&height=40&lines=DEV+DE+LEIANET;UTILIDADES+WEB%2C+BOTS+Y+SERVIDORES;ARCH+LINUX%2C+BTW" alt="typing" />
 </a>
@@ -19,13 +23,30 @@
 
 <br>
 
+## <img src="./assets/leianet/star.png" width="28" align="absmiddle"> LEIANET
+
+<p align="center">UTILIDADES WEB GRATUITAS · SERVIDORES · COMUNIDAD</p>
+
+<p align="center">
+  <a href="https://leianet.ar"><img src="./assets/leianet/star.png" width="56" alt="WEB" /></a>
+  <a href="https://leianet.ar/minecraft-server"><img src="./assets/leianet/minecraft.png" width="56" alt="MINECRAFT" /></a>
+  <a href="https://www.instagram.com/leia_network/"><img src="./assets/leianet/instagram.png" width="56" alt="INSTAGRAM" /></a>
+  <a href="https://www.tiktok.com/@leianetwork"><img src="./assets/leianet/tiktok.png" width="56" alt="TIKTOK" /></a>
+  <a href="https://twitter.com/leianetwork"><img src="./assets/leianet/x.png" width="56" alt="X" /></a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/3Hsy6JrSMH"><img src="https://img.shields.io/badge/DISCORD-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&color=30363d" alt="DISCORD" /></a>
+  <a href="https://www.twitch.tv/leian3t"><img src="https://img.shields.io/badge/TWITCH-0d1117?style=for-the-badge&logo=twitch&logoColor=9146FF&color=30363d" alt="TWITCH" /></a>
+</p>
+
 ## STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,discord&theme=dark" alt="STACK" />
 </p>
 
-## PROYECTO PRINCIPAL
+## <img src="./assets/leianet/dog.png" width="30" align="absmiddle"> PROYECTO PRINCIPAL
 
 <p align="center">
   <a href="https://github.com/Bruno7A0/leianet-web">
@@ -47,7 +68,9 @@
 ## SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bruno7A0/Bruno7A0/output/github-snake-dark.svg" alt="SNAKE" width="100%" />
+  <img src="https://raw.githubusercontent.com/Bruno7A0/Bruno7A0/output/github-snake-dark.svg?v=2" alt="SNAKE" width="100%" />
 </p>
+
+<p align="center"><img src="./assets/leianet/dog.png" width="72" alt="LEIANET" /></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b4f,50:d6141c,100:7a0a1a&height=130&section=footer&reversal=true" width="100%" alt="footer" />
